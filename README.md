@@ -1,4 +1,5 @@
 📊 Power BI Financial Report Analysis
+
 This project showcases a comprehensive financial analysis using Power BI, based on sales data from a sample Excel dataset. The report explores revenue, profitability, and performance trends across countries, customer segments, and product lines for the year 2014.
 
 🔍 Key Insights:
