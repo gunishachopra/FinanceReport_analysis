@@ -14,6 +14,7 @@ Time Trends: Sales peaked in June and October, indicating possible seasonal or p
 Profitability: High profitability was maintained through low manufacturing costs and minimal discounting.
 
 📁 Data Source: https://docs.google.com/spreadsheets/d/1r_xd4wHYwGcL_7HlDwQc6Aaw_q88v9xL/edit?usp=sharing&ouid=102683227032029211056&rtpof=true&sd=true
+
 [✔] Excel File: Financial Sample.xlsx
 
 Contains 700 records with fields such as Segment, Country, Product, Units Sold, Gross Sales, Discounts, Sales, COGS, and Profit.
